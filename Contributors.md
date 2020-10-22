@@ -18,7 +18,7 @@
 - [Vaibhav Kumar] (https://github.com/ivaibhavkr)
 - [Brianna Degaston] (https://github.com/briannadeg)
 - [Subhendu Maji] (https://github.com/subhendu17620)
-- [Aayush Agrawal](https://github.com/aayushagrawal135)
+- [ShelbyCook] (https://github.com/bookish)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [LWY](https://github.com/SFMDI)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
